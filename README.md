@@ -18,6 +18,8 @@ A list of awesome open-source code and where to find it.
 - [Underscore](http://underscorejs.org/)
 - [Lodash](https://lodash.com/)
 - [Ramda](http://ramdajs.com/)
+- [BootStrap](http://getbootstrap.com/)
+- [Vue](http://vuejs.org/)
 
 ## PHP
 
