@@ -19,6 +19,9 @@ A list of awesome open-source code and where to find it.
 ## Python
 
 - [Flask](https://github.com/pallets/flask)
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [Requests](https://github.com/kennethreitz/requests)
+- [Django](https://github.com/django/django)
 
 ## CSS
 
