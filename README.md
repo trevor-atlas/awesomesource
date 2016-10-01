@@ -1,4 +1,4 @@
-# awesomesource
+# Awesomesource
 A list of awesome open-source code and where to find it.
 
 ## Android / Java
@@ -14,7 +14,10 @@ A list of awesome open-source code and where to find it.
 - [AngularJS](https://angularjs.org/)
 - [ThreeJS](https://threejs.org/)
 - [Ionic](http://ionicframework.com/)
-- [JQuery](http://jquery.com/)
+- [jQuery](http://jquery.com/)
+- [Underscore](http://underscorejs.org/)
+- [Lodash](https://lodash.com/)
+- [Ramda](http://ramdajs.com/)
 
 ## PHP
 
