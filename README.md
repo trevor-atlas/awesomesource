@@ -55,6 +55,8 @@ A list of awesome open-source code and where to find it.
 - [Pattern](https://github.com/clips/pattern)
 - [NuPIC](https://github.com/numenta/nupic)
 - [Aerosolve](https://github.com/airbnb/aerosolve)
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [PyBrain] (https://github.com/pybrain/pybrain)
 
 ## Iconography
 
@@ -72,3 +74,8 @@ A list of awesome open-source code and where to find it.
 ## Ruby
 
 - [ifme](https://github.com/julianguyen/ifme)
+
+## Visualization
+
+- [MatplotLib](https://github.com/matplotlib/matplotlib)
+- [D3] (https://github.com/d3/d3)
