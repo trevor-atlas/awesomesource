@@ -1,4 +1,4 @@
-# Awesomesource
+# 💣 Awesomesource 💣
 A list of awesome open-source code and where to find it.
 
 ## Android / Java
@@ -30,6 +30,7 @@ A list of awesome open-source code and where to find it.
 - [Snappy](https://github.com/KnpLabs/snappy)
 - [Faker](https://github.com/fzaninotto/Faker)
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [PHPunit](https://github.com/sebastianbergmann/phpunit)
 
 ## Python
 
