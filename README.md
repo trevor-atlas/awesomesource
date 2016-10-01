@@ -34,6 +34,7 @@ A list of awesome open-source code and where to find it.
 - [Faker](https://github.com/fzaninotto/Faker)
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 - [PHPunit](https://github.com/sebastianbergmann/phpunit)
+- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 
 ## Python
 
@@ -82,3 +83,7 @@ A list of awesome open-source code and where to find it.
 
 - [MatplotLib](https://github.com/matplotlib/matplotlib)
 - [D3] (https://github.com/d3/d3)
+
+## Shell
+
+- [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
