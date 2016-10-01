@@ -24,6 +24,12 @@ A list of awesome open-source code and where to find it.
 ## PHP
 
 - [Laravel](https://laravel.com/)
+- [Symfony](https://symfony.com/)
+- [Dispatch](https://github.com/noodlehaus/dispatch)
+- [ImageWorkshop](https://github.com/Sybio/ImageWorkshop)
+- [Snappy](https://github.com/KnpLabs/snappy)
+- [Faker](https://github.com/fzaninotto/Faker)
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ## Python
 
