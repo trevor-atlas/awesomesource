@@ -52,7 +52,11 @@ A list of awesome open-source code and where to find it.
 - [Material Design Icons](https://github.com/google/material-design-icons)
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
 
-## C#
+## Csharp
 
 - [ifme](https://github.com/julianguyen/ifme)
 - [Orleans](https://github.com/dotnet/orleans)
+
+## Rust
+
+- [Habitat](https://github.com/habitat-sh/habitat)
