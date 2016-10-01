@@ -39,6 +39,10 @@ A list of awesome open-source code and where to find it.
 - [Theano](https://github.com/Theano/Theano)
 - [Torch](http://torch.ch/)
 - [CNTK](https://github.com/Microsoft/CNTK)
+- [PredictionIO](https://github.com/apache/incubator-predictionio)
+- [Pattern](https://github.com/clips/pattern)
+- [NuPIC](https://github.com/numenta/nupic)
+- [Aerosolve](https://github.com/airbnb/aerosolve)
 
 ## Iconography
 
