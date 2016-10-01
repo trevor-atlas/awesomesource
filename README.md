@@ -11,6 +11,10 @@ A list of awesome open-source code and where to find it.
 
 - [React](https://facebook.github.io/react/)
 - [Node](https://nodejs.org/en/)
+- [AngularJS](https://angularjs.org/)
+- [ThreeJS](https://threejs.org/)
+- [Ionic](http://ionicframework.com/)
+- [JQuery](http://jquery.com/)
 
 ## PHP
 
@@ -22,6 +26,7 @@ A list of awesome open-source code and where to find it.
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [Requests](https://github.com/kennethreitz/requests)
 - [Django](https://github.com/django/django)
+- [Web2Py](http://www.web2py.com/)
 
 ## CSS
 
@@ -31,6 +36,8 @@ A list of awesome open-source code and where to find it.
 ## Machine Learning
 
 - [Tensorflow](https://www.tensorflow.org/)
+- [Theano](https://github.com/Theano/Theano)
+- [Torch](http://torch.ch/)
 - [CNTK](https://github.com/Microsoft/CNTK)
 
 ## Iconography
