@@ -28,6 +28,7 @@ A list of awesome open-source code and where to find it.
 ## Machine Learning
 
 - [Tensorflow](https://www.tensorflow.org/)
+- [CNTK](https://github.com/Microsoft/CNTK)
 
 ## Iconography
 
