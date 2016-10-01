@@ -20,6 +20,9 @@ A list of awesome open-source code and where to find it.
 - [Ramda](http://ramdajs.com/)
 - [BootStrap](http://getbootstrap.com/)
 - [Vue](http://vuejs.org/)
+- [Backbone](https://github.com/jashkenas/backbone)
+- [Meteor](https://github.com/meteor/meteor)
+
 
 ## PHP
 
