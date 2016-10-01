@@ -43,6 +43,8 @@ A list of awesome open-source code and where to find it.
 - [Requests](https://github.com/kennethreitz/requests)
 - [Django](https://github.com/django/django)
 - [Web2Py](http://www.web2py.com/)
+- [Pyenv](https://github.com/yyuu/pyenv)
+- [Coala](https://coala.io/)
 
 ## CSS
 
@@ -87,3 +89,7 @@ A list of awesome open-source code and where to find it.
 ## Shell
 
 - [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+## Mac
+
+- [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
