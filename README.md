@@ -96,3 +96,7 @@ A list of awesome open-source code and where to find it.
 ## Mac
 
 - [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
+
+## Golang
+
+- [Mattermost](http://mattermost.org)
