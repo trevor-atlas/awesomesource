@@ -45,6 +45,7 @@ A list of awesome open-source code and where to find it.
 - [Web2Py](http://www.web2py.com/)
 - [Pyenv](https://github.com/yyuu/pyenv)
 - [Coala](https://coala.io/)
+- [Gym](https://github.com/openai/gym)
 
 ## CSS
 
@@ -76,6 +77,7 @@ A list of awesome open-source code and where to find it.
 ## Rust
 
 - [Habitat](https://github.com/habitat-sh/habitat)
+- [Ripgrep](https://github.com/BurntSushi/ripgrep)
 
 ## Ruby
 
