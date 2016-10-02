@@ -89,6 +89,7 @@ A list of awesome open-source code and where to find it.
 ## Shell
 
 - [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 
 ## Mac
 
