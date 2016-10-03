@@ -46,6 +46,10 @@ A list of awesome open-source code and where to find it.
 - [Pyenv](https://github.com/yyuu/pyenv)
 - [Coala](https://coala.io/)
 - [Gym](https://github.com/openai/gym)
+- [Numpy](https://github.com/numpy/numpy)
+- [Scipy](https://github.com/scipy/scipy)
+- [IPython](https://github.com/ipython/ipython)
+- [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
 
 ## CSS
 
