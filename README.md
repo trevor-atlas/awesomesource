@@ -55,6 +55,8 @@ A list of awesome open-source code and where to find it.
 ## Machine Learning
 
 - [Tensorflow](https://www.tensorflow.org/)
+- [Caffe](https://github.com/BVLC/caffe)
+- [Keras](https://github.com/fchollet/keras.git)
 - [Theano](https://github.com/Theano/Theano)
 - [Torch](http://torch.ch/)
 - [CNTK](https://github.com/Microsoft/CNTK)
