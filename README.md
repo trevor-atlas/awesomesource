@@ -35,6 +35,7 @@ A list of awesome open-source code and where to find it.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 - [PHPunit](https://github.com/sebastianbergmann/phpunit)
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+- [Drupal](https://github.com/drupal/drupal)
 
 ## Python
 
