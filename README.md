@@ -35,6 +35,7 @@ A list of awesome open-source code and where to find it.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 - [PHPunit](https://github.com/sebastianbergmann/phpunit)
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+- [Wordpress](https://wordpress.org)
 - [Drupal](https://github.com/drupal/drupal)
 
 ## Python
@@ -55,6 +56,8 @@ A list of awesome open-source code and where to find it.
 ## CSS
 
 - [Bootstrap](https://github.com/twbs/bootstrap)
+- [Foundation](http://foundation.zurb.com/)
+- [Animate.css](https://daneden.github.io/animate.css/)
 - [Materialize](https://github.com/Dogfalo/materialize)
 
 ## Machine Learning
@@ -103,6 +106,7 @@ A list of awesome open-source code and where to find it.
 ## Mac
 
 - [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
+- [Homebrew](http://brew.sh/index.html)
 
 ## Golang
 
