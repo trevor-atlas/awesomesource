@@ -6,6 +6,8 @@ A list of awesome open-source code and where to find it.
 - [Retrofit 2](https://github.com/square/retrofit/)
 - [Picasso](https://github.com/square/picasso)
 - [Glide](https://github.com/bumptech/glide)
+- [Butter Knife](http://jakewharton.github.io/butterknife/)
+- [JsonSchema2Pojo](https://github.com/joelittlejohn/jsonschema2pojo)
 
 ## Javascript
 
@@ -111,3 +113,6 @@ A list of awesome open-source code and where to find it.
 ## Golang
 
 - [Mattermost](http://mattermost.org)
+
+## For Laughs
+- [DICSS](https://github.com/letsgetrandy/DICSS)
