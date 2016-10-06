@@ -114,5 +114,11 @@ A list of awesome open-source code and where to find it.
 
 - [Mattermost](http://mattermost.org)
 
+## Swift
+
+- [Swift](https://github.com/apple/swift)
+- [ImagePicker](https://github.com/hyperoslo/ImagePicker)
+- [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
+
 ## For Laughs
 - [DICSS](https://github.com/letsgetrandy/DICSS)
