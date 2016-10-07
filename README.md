@@ -2,22 +2,30 @@
 A list of awesome open-source code and where to find it.
 
 ## Contents
+
 - [Android / Java](#android_java)
-- [C#](#c# #)
+- [C#](#c)
+- [Cpp](#cpp)
 - [CSS](#css)
 - [Golang](#golang)
+- [Hacking](#hacking)
 - [Iconography](#iconography)
 - [Javascript](#javascript)
+- [Linux](#linux)
 - [Mac](#mac)
 - [Machine Learning](#machine_learning)
+- [Node.js](#node)
 - [PHP](#php)
 - [Python](#python)
+- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
 - [Visualization](#visualization)
 - [For Laughs](#for_laughs)
+- [More Lists!](#lists)
+
 
 ## Android_Java
 
@@ -33,6 +41,10 @@ A list of awesome open-source code and where to find it.
 - [Orleans](https://github.com/dotnet/orleans)
 
 
+## Cpp
+
+- [Awesome C++ frameworks by fffaraz](https://github.com/fffaraz/awesome-cpp)
+
 ## CSS
 
 - [Bootstrap](https://github.com/twbs/bootstrap)
@@ -46,10 +58,16 @@ A list of awesome open-source code and where to find it.
 - [Mattermost](http://mattermost.org)
 
 
+## Hacking
+
+- [A curated list by carpedm20](https://github.com/carpedm20/awesome-hacking)
+
+
 ## Iconography
 
 - [Material Design Icons](https://github.com/google/material-design-icons)
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
+
 
 ## Javascript
 
@@ -66,6 +84,11 @@ A list of awesome open-source code and where to find it.
 - [Vue](http://vuejs.org/)
 - [Backbone](https://github.com/jashkenas/backbone)
 - [Meteor](https://github.com/meteor/meteor)
+
+
+## Linux 
+
+- [A list by aleksandar-todorovic](https://github.com/aleksandar-todorovic/awesome-linux)
 
 
 ## Mac
@@ -89,6 +112,10 @@ A list of awesome open-source code and where to find it.
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [PyBrain] (https://github.com/pybrain/pybrain)
 
+
+## Node
+- [An awesome list by sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+- [npm scripts by RyanZim](https://github.com/RyanZim/awesome-npm-scripts)
 
 ## PHP
 
@@ -119,6 +146,12 @@ A list of awesome open-source code and where to find it.
 - [Scipy](https://github.com/scipy/scipy)
 - [IPython](https://github.com/ipython/ipython)
 - [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
+- [PrettyTable](https://github.com/dprince/python-prettytable)
+- [A curated list by aktech](https://github.com/aktech/awesome-python)
+
+## R
+
+- [A curated list by ujjwalkarn for Data Science](https://github.com/ujjwalkarn/DataScienceR)
 
 
 ## Ruby
@@ -136,6 +169,7 @@ A list of awesome open-source code and where to find it.
 
 - [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Oh my fish](https://github.com/oh-my-fish/oh-my-fish)
+- [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
 
 ## Swift
@@ -152,4 +186,14 @@ A list of awesome open-source code and where to find it.
 
 
 ## For_Laughs
+
 - [DICSS](https://github.com/letsgetrandy/DICSS)
+- [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+
+## Lists
+
+More awesome lists !
+
+- [Awesome by sindrehorus](https://github.com/sindresorhus/awesome)
+- [Awesome cheatsheet by detailyang](https://github.com/detailyang/awesome-cheatsheet)
