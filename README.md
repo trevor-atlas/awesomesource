@@ -39,6 +39,7 @@ A list of awesome open-source code and where to find it.
 ## C# #
 
 - [Orleans](https://github.com/dotnet/orleans)
+- [Powershell](https://github.com/PowerShell/PowerShell)
 
 
 ## Cpp
