@@ -84,6 +84,7 @@ A list of awesome open-source code and where to find it.
 - [Vue](http://vuejs.org/)
 - [Backbone](https://github.com/jashkenas/backbone)
 - [Meteor](https://github.com/meteor/meteor)
+- [D3](https://d3js.org/)
 
 
 ## Linux 
