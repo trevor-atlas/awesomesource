@@ -1,13 +1,55 @@
 # 💣 Awesomesource 💣
 A list of awesome open-source code and where to find it.
 
-## Android / Java
+## Contents
+- [Android / Java](#android_java)
+- [C#](#c# #)
+- [CSS](#css)
+- [Golang](#golang)
+- [Iconography](#iconography)
+- [Javascript](#javascript)
+- [Mac](#mac)
+- [Machine Learning](#machine_learning)
+- [PHP](#php)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Shell](#shell)
+- [Swift](#swift)
+- [Visualization](#visualization)
+- [For Laughs](#for_laughs)
+
+## Android_Java
 
 - [Retrofit 2](https://github.com/square/retrofit/)
 - [Picasso](https://github.com/square/picasso)
 - [Glide](https://github.com/bumptech/glide)
 - [Butter Knife](http://jakewharton.github.io/butterknife/)
 - [JsonSchema2Pojo](https://github.com/joelittlejohn/jsonschema2pojo)
+
+
+## C# #
+
+- [Orleans](https://github.com/dotnet/orleans)
+
+
+## CSS
+
+- [Bootstrap](https://github.com/twbs/bootstrap)
+- [Foundation](http://foundation.zurb.com/)
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Materialize](https://github.com/Dogfalo/materialize)
+
+
+## Golang
+
+- [Mattermost](http://mattermost.org)
+
+
+## Iconography
+
+- [Material Design Icons](https://github.com/google/material-design-icons)
+- [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
 
 ## Javascript
 
@@ -26,6 +68,28 @@ A list of awesome open-source code and where to find it.
 - [Meteor](https://github.com/meteor/meteor)
 
 
+## Mac
+
+- [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
+- [Homebrew](http://brew.sh/index.html)
+
+
+## Machine_Learning
+
+- [Tensorflow](https://www.tensorflow.org/)
+- [Caffe](https://github.com/BVLC/caffe)
+- [Keras](https://github.com/fchollet/keras.git)
+- [Theano](https://github.com/Theano/Theano)
+- [Torch](http://torch.ch/)
+- [CNTK](https://github.com/Microsoft/CNTK)
+- [PredictionIO](https://github.com/apache/incubator-predictionio)
+- [Pattern](https://github.com/clips/pattern)
+- [NuPIC](https://github.com/numenta/nupic)
+- [Aerosolve](https://github.com/airbnb/aerosolve)
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [PyBrain] (https://github.com/pybrain/pybrain)
+
+
 ## PHP
 
 - [Laravel](https://laravel.com/)
@@ -39,6 +103,7 @@ A list of awesome open-source code and where to find it.
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 - [Wordpress](https://wordpress.org)
 - [Drupal](https://github.com/drupal/drupal)
+
 
 ## Python
 
@@ -55,64 +120,23 @@ A list of awesome open-source code and where to find it.
 - [IPython](https://github.com/ipython/ipython)
 - [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
 
-## CSS
 
-- [Bootstrap](https://github.com/twbs/bootstrap)
-- [Foundation](http://foundation.zurb.com/)
-- [Animate.css](https://daneden.github.io/animate.css/)
-- [Materialize](https://github.com/Dogfalo/materialize)
+## Ruby
 
-## Machine Learning
+- [ifme](https://github.com/julianguyen/ifme)
 
-- [Tensorflow](https://www.tensorflow.org/)
-- [Caffe](https://github.com/BVLC/caffe)
-- [Keras](https://github.com/fchollet/keras.git)
-- [Theano](https://github.com/Theano/Theano)
-- [Torch](http://torch.ch/)
-- [CNTK](https://github.com/Microsoft/CNTK)
-- [PredictionIO](https://github.com/apache/incubator-predictionio)
-- [Pattern](https://github.com/clips/pattern)
-- [NuPIC](https://github.com/numenta/nupic)
-- [Aerosolve](https://github.com/airbnb/aerosolve)
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [PyBrain] (https://github.com/pybrain/pybrain)
-
-## Iconography
-
-- [Material Design Icons](https://github.com/google/material-design-icons)
-- [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
-
-## C# #
-
-- [Orleans](https://github.com/dotnet/orleans)
 
 ## Rust
 
 - [Habitat](https://github.com/habitat-sh/habitat)
 - [Ripgrep](https://github.com/BurntSushi/ripgrep)
 
-## Ruby
-
-- [ifme](https://github.com/julianguyen/ifme)
-
-## Visualization
-
-- [MatplotLib](https://github.com/matplotlib/matplotlib)
-- [D3] (https://github.com/d3/d3)
 
 ## Shell
 
 - [Oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 
-## Mac
-
-- [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
-- [Homebrew](http://brew.sh/index.html)
-
-## Golang
-
-- [Mattermost](http://mattermost.org)
 
 ## Swift
 
@@ -120,5 +144,12 @@ A list of awesome open-source code and where to find it.
 - [ImagePicker](https://github.com/hyperoslo/ImagePicker)
 - [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 
-## For Laughs
+
+## Visualization
+
+- [MatplotLib](https://github.com/matplotlib/matplotlib)
+- [D3] (https://github.com/d3/d3)
+
+
+## For_Laughs
 - [DICSS](https://github.com/letsgetrandy/DICSS)
