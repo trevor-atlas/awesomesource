@@ -199,3 +199,4 @@ More awesome lists !
 
 - [Awesome by sindrehorus](https://github.com/sindresorhus/awesome)
 - [Awesome cheatsheet by detailyang](https://github.com/detailyang/awesome-cheatsheet)
+- [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
