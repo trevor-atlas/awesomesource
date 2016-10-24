@@ -40,7 +40,7 @@ A list of awesome open-source code and where to find it.
 
 - [Orleans](https://github.com/dotnet/orleans)
 - [Powershell](https://github.com/PowerShell/PowerShell)
-
+- [Chocolatey](https://github.com/chocolatey/choco)
 
 ## Cpp
 
