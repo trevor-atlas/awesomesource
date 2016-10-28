@@ -114,6 +114,8 @@ A list of awesome open-source code and where to find it.
 - [Aerosolve](https://github.com/airbnb/aerosolve)
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [PyBrain] (https://github.com/pybrain/pybrain)
+- [shogun](http://www.shogun-toolbox.org/)
+- [Oryx 2](https://github.com/cloudera/oryx)
 
 
 ## Node
