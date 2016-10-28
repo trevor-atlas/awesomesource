@@ -23,6 +23,7 @@ A list of awesome open-source code and where to find it.
 - [Shell](#shell)
 - [Swift](#swift)
 - [Visualization](#visualization)
+- [Computer Vision](#computer_vision)
 - [For Laughs](#for_laughs)
 - [More Lists!](#lists)
 
@@ -185,6 +186,11 @@ A list of awesome open-source code and where to find it.
 
 - [MatplotLib](https://github.com/matplotlib/matplotlib)
 - [D3] (https://github.com/d3/d3)
+
+
+## Computer_Vision
+
+- [OpenCV] (https://github.com/opencv/opencv)
 
 
 ## For_Laughs
