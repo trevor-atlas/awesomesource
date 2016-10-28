@@ -150,6 +150,7 @@ A list of awesome open-source code and where to find it.
 - [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
 - [PrettyTable](https://github.com/dprince/python-prettytable)
 - [A curated list by aktech](https://github.com/aktech/awesome-python)
+- [Pyramid](https://github.com/Pylons/pyramid)
 
 ## R
 
