@@ -77,7 +77,7 @@ A list of awesome open-source code and where to find it.
 
 ## Javascript
 
-- [React](https://facebook.github.io/react/)
+- [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [AngularJS](https://angularjs.org/)
 - [ThreeJS](https://threejs.org/)
@@ -93,7 +93,7 @@ A list of awesome open-source code and where to find it.
 - [D3](https://d3js.org/)
 
 
-## Linux 
+## Linux
 
 - [A list by aleksandar-todorovic](https://github.com/aleksandar-todorovic/awesome-linux)
 
