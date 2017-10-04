@@ -137,6 +137,8 @@ A list of awesome open-source code and where to find it.
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 - [Wordpress](https://wordpress.org)
 - [Drupal](https://github.com/drupal/drupal)
+- [Slim](https://github.com/slimphp/Slim)
+- [Opulence](https://github.com/opulencephp/Opulence)
 
 
 ## Python
@@ -212,3 +214,4 @@ More awesome lists !
 - [Awesome by sindrehorus](https://github.com/sindresorhus/awesome)
 - [Awesome cheatsheet by detailyang](https://github.com/detailyang/awesome-cheatsheet)
 - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+- [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
