@@ -191,12 +191,12 @@ A list of awesome open-source code and where to find it.
 ## Visualization
 
 - [MatplotLib](https://github.com/matplotlib/matplotlib)
-- [D3] (https://github.com/d3/d3)
+- [D3](https://github.com/d3/d3)
 
 
 ## Computer_Vision
 
-- [OpenCV] (https://github.com/opencv/opencv)
+- [OpenCV](https://github.com/opencv/opencv)
 
 
 ## For_Laughs
