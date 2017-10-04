@@ -141,7 +141,7 @@ A list of awesome open-source code and where to find it.
 - [Drupal](https://github.com/drupal/drupal)
 - [Slim](https://github.com/slimphp/Slim)
 - [Opulence](https://github.com/opulencephp/Opulence)
-
+- [Composer](https://github.com/composer/composer)
 
 ## Python
 
