@@ -46,6 +46,8 @@ A list of awesome open-source code and where to find it.
 ## Cpp
 
 - [Awesome C++ frameworks by fffaraz](https://github.com/fffaraz/awesome-cpp)
+- [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
+
 
 ## CSS
 
@@ -53,6 +55,8 @@ A list of awesome open-source code and where to find it.
 - [Foundation](http://foundation.zurb.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Materialize](https://github.com/Dogfalo/materialize)
+- [Bulma](https://github.com/jgthms/bulma)
+
 
 
 ## Golang
@@ -73,7 +77,7 @@ A list of awesome open-source code and where to find it.
 
 ## Javascript
 
-- [React](https://facebook.github.io/react/)
+- [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [AngularJS](https://angularjs.org/)
 - [ThreeJS](https://threejs.org/)
@@ -89,7 +93,7 @@ A list of awesome open-source code and where to find it.
 - [D3](https://d3js.org/)
 
 
-## Linux 
+## Linux
 
 - [A list by aleksandar-todorovic](https://github.com/aleksandar-todorovic/awesome-linux)
 
@@ -135,7 +139,9 @@ A list of awesome open-source code and where to find it.
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 - [Wordpress](https://wordpress.org)
 - [Drupal](https://github.com/drupal/drupal)
-
+- [Slim](https://github.com/slimphp/Slim)
+- [Opulence](https://github.com/opulencephp/Opulence)
+- [Composer](https://github.com/composer/composer)
 
 ## Python
 
@@ -158,6 +164,7 @@ A list of awesome open-source code and where to find it.
 ## R
 
 - [A curated list by ujjwalkarn for Data Science](https://github.com/ujjwalkarn/DataScienceR)
+- [A curated list of resources for R Shiny](https://github.com/grabear/awesome-rshiny)
 
 
 ## Ruby
@@ -188,12 +195,12 @@ A list of awesome open-source code and where to find it.
 ## Visualization
 
 - [MatplotLib](https://github.com/matplotlib/matplotlib)
-- [D3] (https://github.com/d3/d3)
+- [D3](https://github.com/d3/d3)
 
 
 ## Computer_Vision
 
-- [OpenCV] (https://github.com/opencv/opencv)
+- [OpenCV](https://github.com/opencv/opencv)
 
 
 ## For_Laughs
@@ -209,3 +216,4 @@ More awesome lists !
 - [Awesome by sindrehorus](https://github.com/sindresorhus/awesome)
 - [Awesome cheatsheet by detailyang](https://github.com/detailyang/awesome-cheatsheet)
 - [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+- [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
