@@ -165,6 +165,7 @@ A list of awesome open-source code and where to find it.
 
 - [A curated list by ujjwalkarn for Data Science](https://github.com/ujjwalkarn/DataScienceR)
 - [A curated list of resources for R Shiny](https://github.com/grabear/awesome-rshiny)
+- [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 
 
 ## Ruby
