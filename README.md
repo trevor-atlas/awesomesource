@@ -57,6 +57,7 @@ A list of awesome open-source code and where to find it.
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Materialize](https://github.com/Dogfalo/materialize)
 - [Bulma](https://github.com/jgthms/bulma)
+- [Semantic UI](https://semantic-ui.com/)
 
 
 
@@ -92,6 +93,7 @@ A list of awesome open-source code and where to find it.
 - [Backbone](https://github.com/jashkenas/backbone)
 - [Meteor](https://github.com/meteor/meteor)
 - [D3](https://d3js.org/)
+- [WOW.js](http://mynameismatthieu.com/WOW/)
 
 
 ## Linux
