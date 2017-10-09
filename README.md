@@ -75,6 +75,7 @@ A list of awesome open-source code and where to find it.
 
 - [Material Design Icons](https://github.com/google/material-design-icons)
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
+- [Iconic](https://useiconic.com/open)
 
 
 ## Javascript
@@ -123,6 +124,7 @@ A list of awesome open-source code and where to find it.
 - [PyBrain] (https://github.com/pybrain/pybrain)
 - [shogun](http://www.shogun-toolbox.org/)
 - [Oryx 2](https://github.com/cloudera/oryx)
+- [Brain](https://github.com/harthur/brain)
 
 
 ## Node
