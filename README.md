@@ -11,6 +11,7 @@ A list of awesome open-source code and where to find it.
 - [Hacking](#hacking)
 - [Iconography](#iconography)
 - [Javascript](#javascript)
+- [Typescript](#typescript)
 - [Linux](#linux)
 - [Mac](#mac)
 - [Machine Learning](#machine_learning)
@@ -96,6 +97,9 @@ A list of awesome open-source code and where to find it.
 - [D3](https://d3js.org/)
 - [WOW.js](http://mynameismatthieu.com/WOW/)
 
+## Typescript
+
+- [Angular](https://angular.io/)
 
 ## Linux
 
