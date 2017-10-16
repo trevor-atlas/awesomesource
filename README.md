@@ -110,6 +110,7 @@ A list of awesome open-source code and where to find it.
 
 - [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
 - [Homebrew](http://brew.sh/index.html)
+- [Deed](https://github.com/edderrd/deed)
 
 
 ## Machine_Learning
